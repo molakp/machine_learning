@@ -12,7 +12,7 @@ K-Means Clustering: An example of unsupervised learning using K-Means clustering
 Neural Network: An example of a simple neural network using TensorFlow and Keras.
 Each project includes a README file with instructions on how to run the code and a brief explanation of the problem and the solution.
 
-##Requirements
+## Requirements
 To run the code in this repository, you will need Python 3.x and the following libraries:
 
 - scikit-learn
